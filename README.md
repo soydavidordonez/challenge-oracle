@@ -66,4 +66,4 @@ Un agradecimiento especial a todo el equipo y compañeros de Oracle Next Educati
 
 ---
 
-Desarrollado con ❤️ por [David Ordoñez](https://github.com/soydavidordonez)
+Desarrollado con ❤️ por [David Ordoñez](https://github.com/soydavidordonez) para Oracle Next Education Colombia 2024
